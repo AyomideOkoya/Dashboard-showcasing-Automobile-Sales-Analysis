@@ -32,8 +32,8 @@
 10. **Data Aggregation**:
     - **Synthesizing information**: Aggregated data to the necessary level of detail using Tableau’s aggregation functions (e.g., SUM, AVG) for a thorough analysis.
 
-12. **Data Validation**:
+11. **Data Validation**:
     - **Ensuring reliability**: Validated the cleaned data by generating preliminary visualizations to check for consistency and accuracy.
 
-13. **Final Review**:
+12. **Final Review**:
     - **Quality assurance**: Conducted a meticulous final review of the cleaned data, ensuring all issues were addressed and the dataset was primed for insightful analysis.
